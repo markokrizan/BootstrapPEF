@@ -1,0 +1,92 @@
+
+.jumbotron{
+    background: none !important;
+    
+}
+
+.jumpotronItem{
+    display: inline-block;
+}
+
+body{
+    background: #fff !important;
+}
+
+.panel-heading{
+    font-weight: bold;
+}
+
+#customJumbotron{
+    margin-bottom: 20px;
+    
+}
+
+.item{
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+.item h1{
+    font-size: 60px;
+    
+}
+
+.item p{
+    font-size: 24px;
+    text-align: center;
+}
+
+#naslovniTekst{
+    margin: 0 auto;
+    padding-top: 40px;
+    
+}
+
+#naslovnaSlika{
+    float: left;
+    margin-right: 30px;
+}
+
+.caption p{
+    text-align: justify;
+}
+
+.caption h3{
+    text-align: center;
+}
+
+.panel p{
+    text-align: justify;
+    
+}
+
+#RuskaSlika{
+    float: left;
+}
+
+#RuskiParagraf{
+    display: inline-block;
+    float: right;
+}
+
+#statutLink{
+    word-spacing: -8px;
+}
+
+#formKontejner{
+    width: 30%;
+    margin: 0 auto;
+}
+
+#rezultatPretrage{
+    margin-top: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+}

@@ -1,0 +1,801 @@
+[{
+  "id": 1,
+  "first_name": "Evangelina",
+  "last_name": "Okroy",
+  "email": "eokroy0@house.gov",
+  "gender": "Female",
+  "grade": 8.2,
+  "br_ind": 2027
+}, {
+  "id": 2,
+  "first_name": "Sibelle",
+  "last_name": "Dugan",
+  "email": "sdugan1@github.io",
+  "gender": "Female",
+  "grade": 5.9,
+  "br_ind": 2070
+}, {
+  "id": 3,
+  "first_name": "Evey",
+  "last_name": "Castelletti",
+  "email": "ecastelletti2@senate.gov",
+  "gender": "Female",
+  "grade": 6.6,
+  "br_ind": 2646
+}, {
+  "id": 4,
+  "first_name": "Court",
+  "last_name": "Stelljes",
+  "email": "cstelljes3@sphinn.com",
+  "gender": "Male",
+  "grade": 8.6,
+  "br_ind": 2685
+}, {
+  "id": 5,
+  "first_name": "Cairistiona",
+  "last_name": "Aleavy",
+  "email": "caleavy4@marriott.com",
+  "gender": "Female",
+  "grade": 5.4,
+  "br_ind": 2248
+}, {
+  "id": 6,
+  "first_name": "Kelvin",
+  "last_name": "Lynds",
+  "email": "klynds5@foxnews.com",
+  "gender": "Male",
+  "grade": 5.5,
+  "br_ind": 2277
+}, {
+  "id": 7,
+  "first_name": "Halsey",
+  "last_name": "Elvin",
+  "email": "helvin6@census.gov",
+  "gender": "Male",
+  "grade": 6.2,
+  "br_ind": 2608
+}, {
+  "id": 8,
+  "first_name": "Gerald",
+  "last_name": "Gandey",
+  "email": "ggandey7@wisc.edu",
+  "gender": "Male",
+  "grade": 9.1,
+  "br_ind": 2187
+}, {
+  "id": 9,
+  "first_name": "Marijn",
+  "last_name": "Padden",
+  "email": "mpadden8@hostgator.com",
+  "gender": "Male",
+  "grade": 7.8,
+  "br_ind": 2618
+}, {
+  "id": 10,
+  "first_name": "Donaugh",
+  "last_name": "Mathissen",
+  "email": "dmathissen9@yellowbook.com",
+  "gender": "Male",
+  "grade": 7.4,
+  "br_ind": 2637
+}, {
+  "id": 11,
+  "first_name": "Aggie",
+  "last_name": "Rainsden",
+  "email": "arainsdena@msu.edu",
+  "gender": "Female",
+  "grade": 7.4,
+  "br_ind": 2437
+}, {
+  "id": 12,
+  "first_name": "Norah",
+  "last_name": "Tilley",
+  "email": "ntilleyb@live.com",
+  "gender": "Female",
+  "grade": 9.9,
+  "br_ind": 2340
+}, {
+  "id": 13,
+  "first_name": "Frank",
+  "last_name": "Conduit",
+  "email": "fconduitc@examiner.com",
+  "gender": "Male",
+  "grade": 7.9,
+  "br_ind": 2925
+}, {
+  "id": 14,
+  "first_name": "Tildi",
+  "last_name": "Maryska",
+  "email": "tmaryskad@ycombinator.com",
+  "gender": "Female",
+  "grade": 8.7,
+  "br_ind": 2045
+}, {
+  "id": 15,
+  "first_name": "Wakefield",
+  "last_name": "Oatley",
+  "email": "woatleye@naver.com",
+  "gender": "Male",
+  "grade": 6.1,
+  "br_ind": 2745
+}, {
+  "id": 16,
+  "first_name": "Agnola",
+  "last_name": "Biskupek",
+  "email": "abiskupekf@desdev.cn",
+  "gender": "Female",
+  "grade": 5.4,
+  "br_ind": 2008
+}, {
+  "id": 17,
+  "first_name": "Rorke",
+  "last_name": "Dunphie",
+  "email": "rdunphieg@geocities.com",
+  "gender": "Male",
+  "grade": 6.2,
+  "br_ind": 2685
+}, {
+  "id": 18,
+  "first_name": "Felic",
+  "last_name": "Huster",
+  "email": "fhusterh@aol.com",
+  "gender": "Male",
+  "grade": 8.0,
+  "br_ind": 2873
+}, {
+  "id": 19,
+  "first_name": "Raynell",
+  "last_name": "Oppy",
+  "email": "roppyi@narod.ru",
+  "gender": "Female",
+  "grade": 5.6,
+  "br_ind": 2479
+}, {
+  "id": 20,
+  "first_name": "Morty",
+  "last_name": "Jerratsch",
+  "email": "mjerratschj@tripod.com",
+  "gender": "Male",
+  "grade": 5.1,
+  "br_ind": 2620
+}, {
+  "id": 21,
+  "first_name": "Brendis",
+  "last_name": "McIlhagga",
+  "email": "bmcilhaggak@indiatimes.com",
+  "gender": "Male",
+  "grade": 9.3,
+  "br_ind": 2231
+}, {
+  "id": 22,
+  "first_name": "Del",
+  "last_name": "Earles",
+  "email": "dearlesl@cyberchimps.com",
+  "gender": "Male",
+  "grade": 7.3,
+  "br_ind": 2904
+}, {
+  "id": 23,
+  "first_name": "Sherm",
+  "last_name": "Kenyam",
+  "email": "skenyamm@mayoclinic.com",
+  "gender": "Male",
+  "grade": 8.9,
+  "br_ind": 2729
+}, {
+  "id": 24,
+  "first_name": "Colver",
+  "last_name": "Records",
+  "email": "crecordsn@360.cn",
+  "gender": "Male",
+  "grade": 9.4,
+  "br_ind": 2014
+}, {
+  "id": 25,
+  "first_name": "Juieta",
+  "last_name": "Doey",
+  "email": "jdoeyo@usda.gov",
+  "gender": "Female",
+  "grade": 5.8,
+  "br_ind": 2769
+}, {
+  "id": 26,
+  "first_name": "Pat",
+  "last_name": "De Metz",
+  "email": "pdemetzp@berkeley.edu",
+  "gender": "Male",
+  "grade": 7.7,
+  "br_ind": 2776
+}, {
+  "id": 27,
+  "first_name": "Addy",
+  "last_name": "Satterlee",
+  "email": "asatterleeq@upenn.edu",
+  "gender": "Male",
+  "grade": 7.4,
+  "br_ind": 2859
+}, {
+  "id": 28,
+  "first_name": "Cosette",
+  "last_name": "Way",
+  "email": "cwayr@joomla.org",
+  "gender": "Female",
+  "grade": 8.6,
+  "br_ind": 2473
+}, {
+  "id": 29,
+  "first_name": "Bartolemo",
+  "last_name": "Wahncke",
+  "email": "bwahnckes@pagesperso-orange.fr",
+  "gender": "Male",
+  "grade": 8.0,
+  "br_ind": 2792
+}, {
+  "id": 30,
+  "first_name": "Gus",
+  "last_name": "Seedull",
+  "email": "gseedullt@diigo.com",
+  "gender": "Female",
+  "grade": 9.5,
+  "br_ind": 2099
+}, {
+  "id": 31,
+  "first_name": "Aguistin",
+  "last_name": "Yes",
+  "email": "ayesu@bloomberg.com",
+  "gender": "Male",
+  "grade": 7.1,
+  "br_ind": 2183
+}, {
+  "id": 32,
+  "first_name": "Yoshiko",
+  "last_name": "Keyworth",
+  "email": "ykeyworthv@paypal.com",
+  "gender": "Female",
+  "grade": 9.6,
+  "br_ind": 2185
+}, {
+  "id": 33,
+  "first_name": "Tabby",
+  "last_name": "Ewbach",
+  "email": "tewbachw@tiny.cc",
+  "gender": "Male",
+  "grade": 9.2,
+  "br_ind": 2965
+}, {
+  "id": 34,
+  "first_name": "Don",
+  "last_name": "Bingley",
+  "email": "dbingleyx@ed.gov",
+  "gender": "Male",
+  "grade": 5.8,
+  "br_ind": 2735
+}, {
+  "id": 35,
+  "first_name": "Marco",
+  "last_name": "Ramsdell",
+  "email": "mramsdelly@cnn.com",
+  "gender": "Male",
+  "grade": 9.9,
+  "br_ind": 2024
+}, {
+  "id": 36,
+  "first_name": "Reube",
+  "last_name": "Seifenmacher",
+  "email": "rseifenmacherz@cbsnews.com",
+  "gender": "Male",
+  "grade": 5.3,
+  "br_ind": 2821
+}, {
+  "id": 37,
+  "first_name": "Jared",
+  "last_name": "Perton",
+  "email": "jperton10@nhs.uk",
+  "gender": "Male",
+  "grade": 9.8,
+  "br_ind": 2917
+}, {
+  "id": 38,
+  "first_name": "Josephina",
+  "last_name": "Brierly",
+  "email": "jbrierly11@timesonline.co.uk",
+  "gender": "Female",
+  "grade": 5.8,
+  "br_ind": 2031
+}, {
+  "id": 39,
+  "first_name": "Celle",
+  "last_name": "Bolter",
+  "email": "cbolter12@gravatar.com",
+  "gender": "Female",
+  "grade": 5.3,
+  "br_ind": 2176
+}, {
+  "id": 40,
+  "first_name": "Cameron",
+  "last_name": "Winspear",
+  "email": "cwinspear13@google.com.au",
+  "gender": "Male",
+  "grade": 7.7,
+  "br_ind": 2683
+}, {
+  "id": 41,
+  "first_name": "Alwin",
+  "last_name": "Yekel",
+  "email": "ayekel14@boston.com",
+  "gender": "Male",
+  "grade": 8.8,
+  "br_ind": 2955
+}, {
+  "id": 42,
+  "first_name": "Jard",
+  "last_name": "Winstone",
+  "email": "jwinstone15@simplemachines.org",
+  "gender": "Male",
+  "grade": 5.6,
+  "br_ind": 2228
+}, {
+  "id": 43,
+  "first_name": "Penrod",
+  "last_name": "Ohm",
+  "email": "pohm16@marketwatch.com",
+  "gender": "Male",
+  "grade": 7.9,
+  "br_ind": 2553
+}, {
+  "id": 44,
+  "first_name": "Lionello",
+  "last_name": "Divina",
+  "email": "ldivina17@trellian.com",
+  "gender": "Male",
+  "grade": 5.4,
+  "br_ind": 2105
+}, {
+  "id": 45,
+  "first_name": "Arleyne",
+  "last_name": "Mosten",
+  "email": "amosten18@gravatar.com",
+  "gender": "Female",
+  "grade": 8.8,
+  "br_ind": 2039
+}, {
+  "id": 46,
+  "first_name": "Westley",
+  "last_name": "Bushell",
+  "email": "wbushell19@seattletimes.com",
+  "gender": "Male",
+  "grade": 5.7,
+  "br_ind": 2315
+}, {
+  "id": 47,
+  "first_name": "Brand",
+  "last_name": "Von Salzberg",
+  "email": "bvonsalzberg1a@com.com",
+  "gender": "Male",
+  "grade": 9.3,
+  "br_ind": 2780
+}, {
+  "id": 48,
+  "first_name": "Gerrard",
+  "last_name": "Matevushev",
+  "email": "gmatevushev1b@cbsnews.com",
+  "gender": "Male",
+  "grade": 9.0,
+  "br_ind": 2697
+}, {
+  "id": 49,
+  "first_name": "Gabriela",
+  "last_name": "Clemmitt",
+  "email": "gclemmitt1c@accuweather.com",
+  "gender": "Female",
+  "grade": 9.3,
+  "br_ind": 2572
+}, {
+  "id": 50,
+  "first_name": "Alano",
+  "last_name": "Merryfield",
+  "email": "amerryfield1d@pbs.org",
+  "gender": "Male",
+  "grade": 5.4,
+  "br_ind": 2593
+}, {
+  "id": 51,
+  "first_name": "Amie",
+  "last_name": "Sacchetti",
+  "email": "asacchetti1e@usda.gov",
+  "gender": "Female",
+  "grade": 6.7,
+  "br_ind": 2512
+}, {
+  "id": 52,
+  "first_name": "Bartolomeo",
+  "last_name": "Ephson",
+  "email": "bephson1f@elpais.com",
+  "gender": "Male",
+  "grade": 7.4,
+  "br_ind": 2180
+}, {
+  "id": 53,
+  "first_name": "Gustave",
+  "last_name": "Kimbrey",
+  "email": "gkimbrey1g@cdc.gov",
+  "gender": "Male",
+  "grade": 5.2,
+  "br_ind": 2596
+}, {
+  "id": 54,
+  "first_name": "Joyan",
+  "last_name": "Dornin",
+  "email": "jdornin1h@squarespace.com",
+  "gender": "Female",
+  "grade": 7.3,
+  "br_ind": 2231
+}, {
+  "id": 55,
+  "first_name": "Angus",
+  "last_name": "Dressel",
+  "email": "adressel1i@loc.gov",
+  "gender": "Male",
+  "grade": 9.9,
+  "br_ind": 2918
+}, {
+  "id": 56,
+  "first_name": "Peria",
+  "last_name": "Runham",
+  "email": "prunham1j@yahoo.com",
+  "gender": "Female",
+  "grade": 5.8,
+  "br_ind": 2088
+}, {
+  "id": 57,
+  "first_name": "Jenda",
+  "last_name": "Sidon",
+  "email": "jsidon1k@myspace.com",
+  "gender": "Female",
+  "grade": 7.3,
+  "br_ind": 2937
+}, {
+  "id": 58,
+  "first_name": "Xever",
+  "last_name": "Hemmingway",
+  "email": "xhemmingway1l@sitemeter.com",
+  "gender": "Male",
+  "grade": 6.8,
+  "br_ind": 2833
+}, {
+  "id": 59,
+  "first_name": "Prinz",
+  "last_name": "Webber",
+  "email": "pwebber1m@google.com",
+  "gender": "Male",
+  "grade": 6.7,
+  "br_ind": 2764
+}, {
+  "id": 60,
+  "first_name": "Cornall",
+  "last_name": "St. Aubyn",
+  "email": "cstaubyn1n@shutterfly.com",
+  "gender": "Male",
+  "grade": 9.2,
+  "br_ind": 2514
+}, {
+  "id": 61,
+  "first_name": "Leonardo",
+  "last_name": "Stubbin",
+  "email": "lstubbin1o@dot.gov",
+  "gender": "Male",
+  "grade": 6.9,
+  "br_ind": 2476
+}, {
+  "id": 62,
+  "first_name": "Sigmund",
+  "last_name": "Morales",
+  "email": "smorales1p@google.ru",
+  "gender": "Male",
+  "grade": 8.5,
+  "br_ind": 2348
+}, {
+  "id": 63,
+  "first_name": "Raffarty",
+  "last_name": "Tames",
+  "email": "rtames1q@livejournal.com",
+  "gender": "Male",
+  "grade": 9.2,
+  "br_ind": 2946
+}, {
+  "id": 64,
+  "first_name": "Traci",
+  "last_name": "Mayling",
+  "email": "tmayling1r@narod.ru",
+  "gender": "Female",
+  "grade": 9.7,
+  "br_ind": 2955
+}, {
+  "id": 65,
+  "first_name": "Sheridan",
+  "last_name": "Morais",
+  "email": "smorais1s@microsoft.com",
+  "gender": "Male",
+  "grade": 5.8,
+  "br_ind": 2509
+}, {
+  "id": 66,
+  "first_name": "Konstanze",
+  "last_name": "Brinklow",
+  "email": "kbrinklow1t@tiny.cc",
+  "gender": "Female",
+  "grade": 6.8,
+  "br_ind": 2661
+}, {
+  "id": 67,
+  "first_name": "Terrye",
+  "last_name": "Van Merwe",
+  "email": "tvanmerwe1u@salon.com",
+  "gender": "Female",
+  "grade": 5.5,
+  "br_ind": 2723
+}, {
+  "id": 68,
+  "first_name": "Mic",
+  "last_name": "Spall",
+  "email": "mspall1v@usda.gov",
+  "gender": "Male",
+  "grade": 8.8,
+  "br_ind": 2774
+}, {
+  "id": 69,
+  "first_name": "Sheila",
+  "last_name": "Bewicke",
+  "email": "sbewicke1w@clickbank.net",
+  "gender": "Female",
+  "grade": 5.2,
+  "br_ind": 2133
+}, {
+  "id": 70,
+  "first_name": "Jeannette",
+  "last_name": "Lombardo",
+  "email": "jlombardo1x@buzzfeed.com",
+  "gender": "Female",
+  "grade": 7.2,
+  "br_ind": 2241
+}, {
+  "id": 71,
+  "first_name": "Orel",
+  "last_name": "Lorenzetto",
+  "email": "olorenzetto1y@shutterfly.com",
+  "gender": "Female",
+  "grade": 5.5,
+  "br_ind": 2961
+}, {
+  "id": 72,
+  "first_name": "Zacharias",
+  "last_name": "Patel",
+  "email": "zpatel1z@msn.com",
+  "gender": "Male",
+  "grade": 9.4,
+  "br_ind": 2414
+}, {
+  "id": 73,
+  "first_name": "Vin",
+  "last_name": "Emanuelli",
+  "email": "vemanuelli20@fotki.com",
+  "gender": "Male",
+  "grade": 7.1,
+  "br_ind": 2405
+}, {
+  "id": 74,
+  "first_name": "Miltie",
+  "last_name": "Plaister",
+  "email": "mplaister21@wufoo.com",
+  "gender": "Male",
+  "grade": 8.8,
+  "br_ind": 2820
+}, {
+  "id": 75,
+  "first_name": "Sindee",
+  "last_name": "Belbin",
+  "email": "sbelbin22@hatena.ne.jp",
+  "gender": "Female",
+  "grade": 5.6,
+  "br_ind": 2582
+}, {
+  "id": 76,
+  "first_name": "Devondra",
+  "last_name": "Episcopio",
+  "email": "depiscopio23@booking.com",
+  "gender": "Female",
+  "grade": 5.9,
+  "br_ind": 2722
+}, {
+  "id": 77,
+  "first_name": "Jedidiah",
+  "last_name": "Olorenshaw",
+  "email": "jolorenshaw24@independent.co.uk",
+  "gender": "Male",
+  "grade": 7.6,
+  "br_ind": 2273
+}, {
+  "id": 78,
+  "first_name": "Ambrosius",
+  "last_name": "Shoorbrooke",
+  "email": "ashoorbrooke25@reference.com",
+  "gender": "Male",
+  "grade": 5.4,
+  "br_ind": 2389
+}, {
+  "id": 79,
+  "first_name": "Geordie",
+  "last_name": "Robottham",
+  "email": "grobottham26@weather.com",
+  "gender": "Male",
+  "grade": 6.9,
+  "br_ind": 2965
+}, {
+  "id": 80,
+  "first_name": "Isaak",
+  "last_name": "Huddlestone",
+  "email": "ihuddlestone27@scientificamerican.com",
+  "gender": "Male",
+  "grade": 9.6,
+  "br_ind": 2109
+}, {
+  "id": 81,
+  "first_name": "Noellyn",
+  "last_name": "Taudevin",
+  "email": "ntaudevin28@fda.gov",
+  "gender": "Female",
+  "grade": 6.8,
+  "br_ind": 2560
+}, {
+  "id": 82,
+  "first_name": "Ruthann",
+  "last_name": "De Pero",
+  "email": "rdepero29@jigsy.com",
+  "gender": "Female",
+  "grade": 9.9,
+  "br_ind": 2529
+}, {
+  "id": 83,
+  "first_name": "Falkner",
+  "last_name": "Crosgrove",
+  "email": "fcrosgrove2a@jugem.jp",
+  "gender": "Male",
+  "grade": 5.1,
+  "br_ind": 2415
+}, {
+  "id": 84,
+  "first_name": "Sanford",
+  "last_name": "Crigin",
+  "email": "scrigin2b@instagram.com",
+  "gender": "Male",
+  "grade": 5.6,
+  "br_ind": 2811
+}, {
+  "id": 85,
+  "first_name": "Arabela",
+  "last_name": "Leppingwell",
+  "email": "aleppingwell2c@ucoz.ru",
+  "gender": "Female",
+  "grade": 5.4,
+  "br_ind": 2277
+}, {
+  "id": 86,
+  "first_name": "Shelden",
+  "last_name": "Leadbitter",
+  "email": "sleadbitter2d@bbb.org",
+  "gender": "Male",
+  "grade": 7.0,
+  "br_ind": 2039
+}, {
+  "id": 87,
+  "first_name": "Adelbert",
+  "last_name": "Rippingall",
+  "email": "arippingall2e@rakuten.co.jp",
+  "gender": "Male",
+  "grade": 9.9,
+  "br_ind": 2052
+}, {
+  "id": 88,
+  "first_name": "Elden",
+  "last_name": "Founds",
+  "email": "efounds2f@miibeian.gov.cn",
+  "gender": "Male",
+  "grade": 9.8,
+  "br_ind": 2644
+}, {
+  "id": 89,
+  "first_name": "Joletta",
+  "last_name": "Ponten",
+  "email": "jponten2g@eepurl.com",
+  "gender": "Female",
+  "grade": 9.1,
+  "br_ind": 2506
+}, {
+  "id": 90,
+  "first_name": "Nert",
+  "last_name": "Eede",
+  "email": "neede2h@nytimes.com",
+  "gender": "Female",
+  "grade": 5.1,
+  "br_ind": 2651
+}, {
+  "id": 91,
+  "first_name": "Batholomew",
+  "last_name": "Mulchrone",
+  "email": "bmulchrone2i@phoca.cz",
+  "gender": "Male",
+  "grade": 9.6,
+  "br_ind": 2509
+}, {
+  "id": 92,
+  "first_name": "Delmer",
+  "last_name": "Frankish",
+  "email": "dfrankish2j@amazon.co.uk",
+  "gender": "Male",
+  "grade": 9.9,
+  "br_ind": 2951
+}, {
+  "id": 93,
+  "first_name": "Warner",
+  "last_name": "Warratt",
+  "email": "wwarratt2k@cmu.edu",
+  "gender": "Male",
+  "grade": 5.8,
+  "br_ind": 2245
+}, {
+  "id": 94,
+  "first_name": "Rosanne",
+  "last_name": "Hackworth",
+  "email": "rhackworth2l@nifty.com",
+  "gender": "Female",
+  "grade": 5.5,
+  "br_ind": 2008
+}, {
+  "id": 95,
+  "first_name": "Geno",
+  "last_name": "Massimi",
+  "email": "gmassimi2m@sfgate.com",
+  "gender": "Male",
+  "grade": 9.7,
+  "br_ind": 2343
+}, {
+  "id": 96,
+  "first_name": "Padget",
+  "last_name": "Glyssanne",
+  "email": "pglyssanne2n@deliciousdays.com",
+  "gender": "Male",
+  "grade": 7.5,
+  "br_ind": 2968
+}, {
+  "id": 97,
+  "first_name": "Constance",
+  "last_name": "Balke",
+  "email": "cbalke2o@tamu.edu",
+  "gender": "Female",
+  "grade": 9.1,
+  "br_ind": 2501
+}, {
+  "id": 98,
+  "first_name": "Elane",
+  "last_name": "Dimitru",
+  "email": "edimitru2p@1688.com",
+  "gender": "Female",
+  "grade": 9.2,
+  "br_ind": 2558
+}, {
+  "id": 99,
+  "first_name": "Yorgos",
+  "last_name": "Balharrie",
+  "email": "ybalharrie2q@alexa.com",
+  "gender": "Male",
+  "grade": 5.2,
+  "br_ind": 2956
+}, {
+  "id": 100,
+  "first_name": "Adelaida",
+  "last_name": "Bartalin",
+  "email": "abartalin2r@google.ru",
+  "gender": "Female",
+  "grade": 9.5,
+  "br_ind": 2850
+}]
